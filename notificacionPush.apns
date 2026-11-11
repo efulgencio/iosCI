@@ -1,0 +1,10 @@
+{
+  "Simulator Target Bundle": "com.efc.PruebaEntorno",
+  "aps": {
+    "alert": {
+      "title": "Prueba",
+      "body": "Notificación push simulada correctamente."
+    },
+    "sound": "default"
+  },
+}
